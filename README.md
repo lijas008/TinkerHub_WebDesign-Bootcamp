@@ -1,4 +1,4 @@
 # TinkerHub_WebDesign-Bootcamp
 
 
-https://github.com/lijas008/TinkerHub_WebDesign-Bootcamp.git
+https://lijas008.github.io/TinkerHub_WebDesign-Bootcamp/
